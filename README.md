@@ -4,6 +4,8 @@
 # TeamsVue
 Vue.js
 
+![GitHub Logo](https://github.com/Ania-M-Pienio/TeamsVue/blob/master/images/Vue.png)
+
 ## Project setup
 ```
 npm install

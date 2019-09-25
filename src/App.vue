@@ -1,28 +1,43 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <v-app>
+    <v-app-bar app>
+      <v-toolbar-title class="headline text-uppercase">
+        <span class="tealText">PROJECT</span>
+        <span class="font-weight-light">PORTAL</span>
+      </v-toolbar-title>
+      <v-spacer></v-spacer>
+      <v-btn
+        text
+        href="https://vuetifyjs.com/en/"
+        target="_blank"
+      >
+        <span class="mr-2">using Vuetify.js</span>
+      </v-btn>
+    </v-app-bar>
+    <div style="height: 50px;"></div>
+      <app-box> 
+      </app-box>
+    </v-app>
 </template>
 
+<style scoped>
+.tealText {
+  color: teal;
+}
+
+</style>
+
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import AppBox from './components/AppBox';
 
 export default {
-  name: 'app',
+  name: 'App',
   components: {
-    HelloWorld
-  }
-}
-</script>
+    AppBox
+  },
+  data: () => ({
 
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
+  }),
+  
+};
+</script>

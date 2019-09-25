@@ -65,7 +65,7 @@ npm run test
 ```
 npm run lint
 ```
-### 
+### `Deployed Version` located at: https://teams-serve-vu.herokuapp.com/
 
 
 

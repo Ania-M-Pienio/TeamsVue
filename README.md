@@ -13,7 +13,7 @@ I strongly recommend using the Vue CLI (https://cli.vuejs.org/guide/#components-
 
 
 # Vuetify
-![GitHub Logo](https://github.com/Ania-M-Pienio/TeamsVue/blob/master/images/Vue.png)
+![GitHub Logo](https://github.com/Ania-M-Pienio/TeamsVue/blob/master/images/Vuetify.png)
 
 Speaking of supporting libraries, Vuetify is a Material Component Framework for Vue - which has a massive following of its own.
 Including it in the project is easy, once you install vuetify (using npm) as well as edit your webpack.config.js file: 
@@ -41,10 +41,6 @@ Then you have include the specified plugin folder and place a vuetify.js file in
 
 The documentation provided with the library is extnsive, clear and organized. I used one the existing themes as a base but the library allows for a lot of customization of its ready-made components.
 
-
-
-
-
 ## Project setup
 ```
 npm install
@@ -69,7 +65,6 @@ npm run test
 ```
 npm run lint
 ```
-
 ### 
 
 

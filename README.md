@@ -1,4 +1,4 @@
-![GitHub Logo](https://github.com/Ania-M-Pienio/Teams/blob/master/images/TeamsVueApp.png/)
+![GitHub Logo](https://github.com/Ania-M-Pienio/TeamsVue/blob/master/images/TeamsVueApp.png)
 Format: ![Alt Text](url)
 
 # TeamsVue

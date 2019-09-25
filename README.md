@@ -1,5 +1,5 @@
 ![GitHub Logo](https://github.com/Ania-M-Pienio/TeamsVue/blob/master/images/TeamsVueApp.png)
-Format: ![Alt Text](url)
+
 
 # TeamsVue
 Vue.js
